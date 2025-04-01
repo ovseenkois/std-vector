@@ -1,1 +1,1 @@
-# std-vector
+# Реализация std::vector
